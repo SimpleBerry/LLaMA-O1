@@ -4,7 +4,9 @@ Towards Open-Source Large Reasoning Models
 
 ## News
 
-The first version of LLaMA-O1 has been uploaded to HF now!Here We Come!
+The first version of LLaMA-O1 has been uploaded to HF now! Here We Come!
+
+
 Supervised:
 
 
