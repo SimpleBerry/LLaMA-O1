@@ -55,9 +55,9 @@ GGUF:https://huggingface.co/Lyte/LLaMA-O1-Supervised-1129-Q4_K_M-GGUF
 Online Demo (CPU-only): https://huggingface.co/spaces/SimpleBerry/LLaMA-O1-Supervised-1129-Demo
 
 ## RoadMaps of LLaMA-O1
-- Marked Language of Long CoT
-- Pretrain Dataset
-- Supervised Dataset
-- PRM token rectifcation Dataset
-- Reinforcement Learning With Self-Play
-- Inference-time Reasoning Enhancement Frameworks
+- Marked Language of Long CoT (Done)
+- Pretrain Dataset (Done)
+- Supervised Dataset (Done)
+- PRM token rectifcation Dataset (Done)
+- Reinforcement Learning With Self-Play (Codes done, training)
+- Inference-time Reasoning Enhancement Frameworks (Codes done, Temporarily postponed)
